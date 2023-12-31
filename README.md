@@ -1,5 +1,7 @@
 # Hate-speech-Detection
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Colab_demo.ipynb)
 
+:star:**Please star the repository if you happen to like the project**
 The task is a binary classification problem to 
 classify the given dataset into two classes namely 
 Hate Offensive tweets (HOF) and Non-Hate 
