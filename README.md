@@ -1,5 +1,5 @@
 # Hate-speech-Detection
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Colab_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Project_Code.ipynb)
 
 :star:**Please star the repository if you happen to like the project**
 The task is a binary classification problem to 
